@@ -1,0 +1,106 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url('./Kyrgyzstan.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    text-align: center;
+    
+    margin-top: 20px;
+    padding-top: 10px;
+}
+.Citys{
+    margin: 40px 0 0 40px;
+    color: #000;
+    height: 75%;
+    text-align: center;
+    font-family: sans-serif;
+
+    /* display: flex;
+    justify-content: space-around; */
+}
+hr{
+    width: 50px;
+    margin: 12px 0 5px 25px;
+    color: cornflowerblue;
+}
+.Degree {
+    margin-top: 10px;
+}
+
+.Feature li{
+    list-style-type: none;
+}
+button{
+    background-color: rgb(137, 228, 255);
+    padding: 5px 20px;
+    border:none;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.Chuy{
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px;
+    background-color: rgb(93, 173, 226, 0.5);
+}
+.Bishkek{
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px;
+    background-color: rgb(93, 173, 226, 0.5);
+}
+.Osh{
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px;
+    background-color: rgb(93, 173, 226, 0.5);
+}
+.Batken{
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px;
+    background-color: rgb(93, 173, 226, 0.5);
+}
+.Jalal-Abad{
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px;
+    background-color: rgb(93, 173, 226, 0.5);
+}
+.Talas{
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px;
+    background-color: rgb(93, 173, 226, 0.5);
+}
+.Naryn{
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px;
+    background-color: rgb(93, 173, 226, 0.5);
+}
+.Kol{
+    border-radius: 5px;
+    padding: 15px;
+    margin: 10px;
+    background-color: rgb(93, 173, 226, 0.5);
+}
+.Kol li{
+    list-style-type: none;
+}
+.Polovina1{
+    display: flex;
+    justify-content: center;
+}
+.Polovina2{
+    display: flex;
+    justify-content: center;
+}
